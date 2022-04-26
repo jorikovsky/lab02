@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-#made an error
+#made with no errors
 
 using namespace std;
 
