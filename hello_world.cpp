@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
 
+#just add a string for task
+
 int main()
 {
 	cout << "Enter your name:";
