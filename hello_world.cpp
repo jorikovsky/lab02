@@ -1,9 +1,7 @@
 #include <iostream>
 #include <string>
 
-#made with no errors
-
-using namespace std;
+just add a string for task
 
 int main()
 {
