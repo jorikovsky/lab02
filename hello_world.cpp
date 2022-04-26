@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-#just add a string for task
+just add a string for task
 
 int main()
 {
